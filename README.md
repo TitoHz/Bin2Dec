@@ -1,4 +1,4 @@
-### Bin2Dec
+#### Bin2Dec
 Simple project which aims to convert from binary to decimal number
 
 Binary is the number system all digital computers are based on. Therefore it's important for developers to understand binary, or base 2, mathematics. The purpose of Bin2Dec is to provide practice and understanding of how binary calculations.
@@ -19,4 +19,5 @@ Determining the decimal equivalent of a particular binary digit in the sequence 
  1. User can enter a variable number of binary digits
 
  https://en.wikipedia.org/wiki/Binary_number
+
 
